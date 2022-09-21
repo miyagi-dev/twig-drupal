@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.2.2 (2022-09-21)
+
+
+### Bug Fixes
+
+* Keep false and zero values ([705dc5f](https://github.com/miyagi-dev/twig-drupal/commit/705dc5f3c0cba22faaeac384ac73a31d177b9944)), closes [#1](https://github.com/miyagi-dev/twig-drupal/issues/1)
+
 ### [0.2.1](https://github.com/mgrsskls/miyagi/compare/twig-drupal/v0.2.0...twig-drupal/v0.2.1) (2022-03-23)
 
 ## [0.2.0](https://github.com/mgrsskls/miyagi/compare/twig-drupal/v0.1.7...twig-drupal/v0.2.0) (2022-01-13)
